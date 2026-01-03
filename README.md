@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ujjawal19Shahi
+👋 Hi, I’m Ujjawal;
 
 👀 I’m interested in Data Analytics, Data Cleaning, Data Visualization & Business Intelligence
 
